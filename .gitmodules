@@ -1,0 +1,6 @@
+[submodule "flutter"]
+	path = flutter
+	url = https://github.com/flutter/skills.git
+[submodule "vercel-labs"]
+	path = vercel-labs
+	url = https://github.com/vercel-labs/agent-skills.git
