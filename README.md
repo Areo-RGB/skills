@@ -8,6 +8,7 @@ A collection repo for managing multiple skill repositories via [git submodules](
 |------|------------|
 | flutter | [flutter/skills](https://github.com/flutter/skills) |
 | vercel-labs | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) |
+| anthropics | [anthropics/skills](https://github.com/anthropics/skills) |
 
 ## Usage
 
