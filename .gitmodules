@@ -10,3 +10,6 @@
 [submodule "remotion-dev"]
 	path = remotion-dev
 	url = https://github.com/remotion-dev/skills.git
+[submodule "vercel-agent-browser"]
+	path = vercel-agent-browser
+	url = https://github.com/vercel-labs/agent-browser.git

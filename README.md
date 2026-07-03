@@ -69,6 +69,12 @@ A collection repo for managing multiple skill repositories via [git submodules](
 |-------|------|
 | remotion | [view](https://github.com/remotion-dev/skills/tree/main/skills/remotion) |
 
+### [Vercel-Agent-Browser](https://github.com/vercel-labs/agent-browser)
+
+| Skill | Link |
+|-------|------|
+| agent-browser | [view](https://github.com/vercel-labs/agent-browser/tree/main/skills/agent-browser) |
+
 ## Usage
 
 ### Clone with all submodules
