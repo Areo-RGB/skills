@@ -7,3 +7,6 @@
 [submodule "anthropics"]
 	path = anthropics
 	url = https://github.com/anthropics/skills.git
+[submodule "remotion-dev"]
+	path = remotion-dev
+	url = https://github.com/remotion-dev/skills.git

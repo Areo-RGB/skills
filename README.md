@@ -27,7 +27,7 @@ A collection repo for managing multiple skill repositories via [git submodules](
 | flutter-setup-localization | [view](https://github.com/flutter/skills/tree/main/skills/flutter-setup-localization) |
 | flutter-use-http-package | [view](https://github.com/flutter/skills/tree/main/skills/flutter-use-http-package) |
 
-### [Vercel Labs](https://github.com/vercel-labs/agent-skills)
+### [Vercel-Labs](https://github.com/vercel-labs/agent-skills)
 
 | Skill | Link |
 |-------|------|
@@ -62,6 +62,12 @@ A collection repo for managing multiple skill repositories via [git submodules](
 | web-artifacts-builder | [view](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) |
 | webapp-testing | [view](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) |
 | xlsx | [view](https://github.com/anthropics/skills/tree/main/skills/xlsx) |
+
+### [Remotion-Dev](https://github.com/remotion-dev/skills)
+
+| Skill | Link |
+|-------|------|
+| remotion | [view](https://github.com/remotion-dev/skills/tree/main/skills/remotion) |
 
 ## Usage
 
